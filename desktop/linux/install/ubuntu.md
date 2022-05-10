@@ -40,6 +40,12 @@ Additionally, for non-Gnome Desktop environments, `gnome-terminal` must be insta
 $ sudo apt install gnome-terminal
 ```
 
+Further, install the following packages:
+```console
+$ sudo apt install curl pass qemu-system-x86 
+```
+TODO: still doesn't work on xubuntu 2104
+
 ## Install Docker Desktop
 
 Recommended approach to install Docker Desktop on Ubuntu:
